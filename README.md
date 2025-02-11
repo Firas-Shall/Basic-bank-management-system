@@ -3,12 +3,12 @@
 
 ### 🛠 Features
 
-✅ Create new accounts with a randomly generated account number
-✅ Deposit, withdraw, and transfer funds between accounts
-✅ Secure transactions using a PIN system
-✅ View account details and all stored accounts
-✅ Calculate compound interest
-✅ Save and load account data from a file
+✅ Create new accounts with a randomly generated account number  
+✅ Deposit, withdraw, and transfer funds between accounts  
+✅ Secure transactions using a PIN system  
+✅ View account details and all stored accounts  
+✅ Calculate compound interest  
+✅ Save and load account data from a file  
 
 ### 📦 Installation & Usage
 1 - Clone the repository: `git clone https://github.com/Firas-Shall/CS-Bank.git`
